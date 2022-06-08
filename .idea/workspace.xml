@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmPratice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChromosomeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertStringToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FakeBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PackArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveStringSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReversedSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPratice/ReversedSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmPratice/ReversedSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversedSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

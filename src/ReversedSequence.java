@@ -4,18 +4,18 @@
 
 
 
-//public class ReversedSequence {
-//
-//    public static int[] reverse(int n){
-//        //your code
-//
-//        for(int i = 0; i < n; i++) {
-//            int temp = i;
-//        }
-//        return new int[temp];
-//    }
-//
-//    public static void main(String[] args) {
-//        System.out.println(reverse(n));
-//    }
-//}
+public class ReversedSequence {
+    public static void main(String[] args) {
+        System.out.println(reverse(5));
+    }
+    public static int[] reverse(int n){
+
+      int[] res = new int[n];
+      for (int i = 0; i < n; i++) {
+          res[i] = n - i;
+      }
+      return res;
+    }
+
+
+}
