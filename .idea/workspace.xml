@@ -37,16 +37,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RunningSumOf1DArray">
-    <configuration name="ReturningString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturningString" />
+  <component name="RunManager" selected="Application.FindMinimumAndMaximumValueOfList">
+    <configuration name="FindMinimumAndMaximumValueOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMinimumAndMaximumValueOfList" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReversedSequence" />
+    <configuration name="ReturningString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturningString" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMinimumAndMaximumValueOfList" />
         <item itemvalue="Application.RunningSumOf1DArray" />
         <item itemvalue="Application.ToSquareOrNoTotSquare" />
         <item itemvalue="Application.ReturningString" />
         <item itemvalue="Application.SumNsquare" />
-        <item itemvalue="Application.ReversedSequence" />
       </list>
     </recent_temporary>
   </component>
