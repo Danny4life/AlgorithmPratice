@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMinimumAndMaximumValueOfList">
+  <component name="RunManager" selected="Application.ReturningString">
     <configuration name="FindMinimumAndMaximumValueOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMinimumAndMaximumValueOfList" />
       <module name="AlgorithmPratice" />
@@ -75,10 +75,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturningString" />
         <item itemvalue="Application.FindMinimumAndMaximumValueOfList" />
         <item itemvalue="Application.RunningSumOf1DArray" />
         <item itemvalue="Application.ToSquareOrNoTotSquare" />
-        <item itemvalue="Application.ReturningString" />
         <item itemvalue="Application.SumNsquare" />
       </list>
     </recent_temporary>
