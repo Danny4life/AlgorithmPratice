@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReturningString">
+  <component name="RunManager" selected="Application.Testing123">
     <configuration name="FindMinimumAndMaximumValueOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMinimumAndMaximumValueOfList" />
       <module name="AlgorithmPratice" />
@@ -59,9 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumNsquare" />
+    <configuration name="Testing123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kata7.Testing123" />
       <module name="AlgorithmPratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kata7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Testing123" />
         <item itemvalue="Application.ReturningString" />
         <item itemvalue="Application.FindMinimumAndMaximumValueOfList" />
         <item itemvalue="Application.RunningSumOf1DArray" />
         <item itemvalue="Application.ToSquareOrNoTotSquare" />
-        <item itemvalue="Application.SumNsquare" />
       </list>
     </recent_temporary>
   </component>
