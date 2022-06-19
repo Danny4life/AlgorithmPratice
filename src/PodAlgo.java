@@ -19,13 +19,13 @@
 //
 //        2.    The array of Candy flavours is an even length array, so that Mary can share equally
 //
-//
+
 //
 //public static int getPossibleCandyFlavour(int [] arr){
-
+//
 // Write your function here
-
- //       }
+//
+//        }
 
 //public class PodAlgo {
 //    public static void main(String[] args) {

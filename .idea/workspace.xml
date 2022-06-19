@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PodAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PodAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata7/ComplementaryDNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata7/ComplementaryDNA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ComplementaryDNA">
+  <component name="RunManager" selected="Application.StringRepeat">
     <configuration name="ComplementaryDNA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kata7.ComplementaryDNA" />
       <module name="AlgorithmPratice" />
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOf1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunningSumOf1DArray" />
+    <configuration name="StringRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringRepeat" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringRepeat" />
         <item itemvalue="Application.ComplementaryDNA" />
         <item itemvalue="Application.Testing123" />
         <item itemvalue="Application.ReturningString" />
         <item itemvalue="Application.FindMinimumAndMaximumValueOfList" />
-        <item itemvalue="Application.RunningSumOf1DArray" />
       </list>
     </recent_temporary>
   </component>
