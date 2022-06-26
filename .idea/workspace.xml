@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExpressionMatter">
+  <component name="RunManager" selected="Application.PalidromeNumber">
     <configuration name="EasyWallPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kata7.EasyWallPaper" />
       <module name="AlgorithmPratice" />
@@ -61,6 +61,9 @@
     <configuration name="ExpressionMatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExpressionMatter" />
       <module name="AlgorithmPratice" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,20 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringRepeat" />
+    <configuration name="PalidromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalidromeNumber" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.PalidromeNumber" />
+      <item itemvalue="Application.EasyWallPaper" />
+      <item itemvalue="Application.ExclusiveOr" />
+      <item itemvalue="Application.ExpressionMatter" />
+      <item itemvalue="Application.FindOutliers" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalidromeNumber" />
         <item itemvalue="Application.ExpressionMatter" />
         <item itemvalue="Application.FindOutliers" />
         <item itemvalue="Application.EasyWallPaper" />
         <item itemvalue="Application.ExclusiveOr" />
-        <item itemvalue="Application.StringRepeat" />
       </list>
     </recent_temporary>
   </component>
