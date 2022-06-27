@@ -37,19 +37,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OppositeAtract">
-    <configuration name="ExpressionMatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExpressionMatter" />
-      <module name="AlgorithmPratice" />
-      <selectedOptions>
-        <option name="environmentVariables" visible="false" />
-      </selectedOptions>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindOutliers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kata7.FindOutliers" />
+  <component name="RunManager" selected="Application.Accumulate">
+    <configuration name="Accumulate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kata7.Accumulate" />
       <module name="AlgorithmPratice" />
       <extension name="coverage">
         <pattern>
@@ -57,6 +47,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionMatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpressionMatter" />
+      <module name="AlgorithmPratice" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,19 +83,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Accumulate" />
       <item itemvalue="Application.OddCount" />
       <item itemvalue="Application.OppositeAtract" />
       <item itemvalue="Application.PalidromeNumber" />
       <item itemvalue="Application.ExpressionMatter" />
-      <item itemvalue="Application.FindOutliers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Accumulate" />
         <item itemvalue="Application.OppositeAtract" />
         <item itemvalue="Application.OddCount" />
         <item itemvalue="Application.PalidromeNumber" />
         <item itemvalue="Application.ExpressionMatter" />
-        <item itemvalue="Application.FindOutliers" />
       </list>
     </recent_temporary>
   </component>
