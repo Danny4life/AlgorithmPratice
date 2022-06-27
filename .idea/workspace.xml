@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalidromeNumber">
+  <component name="RunManager" selected="Application.OddCount">
     <configuration name="EasyWallPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kata7.EasyWallPaper" />
       <module name="AlgorithmPratice" />
@@ -47,13 +47,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExclusiveOr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExclusiveOr" />
-      <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OddCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddCount" />
+      <module name="AlgorithmPratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalidromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalidromeNumber" />
       <module name="AlgorithmPratice" />
@@ -89,19 +89,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.OddCount" />
       <item itemvalue="Application.PalidromeNumber" />
       <item itemvalue="Application.EasyWallPaper" />
-      <item itemvalue="Application.ExclusiveOr" />
       <item itemvalue="Application.ExpressionMatter" />
       <item itemvalue="Application.FindOutliers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddCount" />
         <item itemvalue="Application.PalidromeNumber" />
         <item itemvalue="Application.ExpressionMatter" />
         <item itemvalue="Application.FindOutliers" />
         <item itemvalue="Application.EasyWallPaper" />
-        <item itemvalue="Application.ExclusiveOr" />
       </list>
     </recent_temporary>
   </component>
