@@ -37,20 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OddCount">
-    <configuration name="EasyWallPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kata7.EasyWallPaper" />
-      <module name="AlgorithmPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kata7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OppositeAtract">
     <configuration name="ExpressionMatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExpressionMatter" />
       <module name="AlgorithmPratice" />
@@ -81,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OppositeAtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OppositeAtract" />
+      <module name="AlgorithmPratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalidromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalidromeNumber" />
       <module name="AlgorithmPratice" />
@@ -90,18 +84,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.OddCount" />
+      <item itemvalue="Application.OppositeAtract" />
       <item itemvalue="Application.PalidromeNumber" />
-      <item itemvalue="Application.EasyWallPaper" />
       <item itemvalue="Application.ExpressionMatter" />
       <item itemvalue="Application.FindOutliers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OppositeAtract" />
         <item itemvalue="Application.OddCount" />
         <item itemvalue="Application.PalidromeNumber" />
         <item itemvalue="Application.ExpressionMatter" />
         <item itemvalue="Application.FindOutliers" />
-        <item itemvalue="Application.EasyWallPaper" />
       </list>
     </recent_temporary>
   </component>
