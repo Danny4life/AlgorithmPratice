@@ -37,7 +37,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RegexPBasic">
+  <component name="RunManager" selected="Application.CompareWithinMargin">
+    <configuration name="CompareWithinMargin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareWithinMargin" />
+      <module name="AlgorithmPratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegexPBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegexPBasic" />
       <module name="AlgorithmPratice" />
@@ -54,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareWithinMargin" />
         <item itemvalue="Application.RegexPBasic" />
         <item itemvalue="Application.RockPaperScissors" />
       </list>
