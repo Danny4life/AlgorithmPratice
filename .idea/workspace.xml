@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="" />
+    <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +35,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/AlgorithmPratice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
+  <component name="RunManager" selected="Application.WolfInSheepsCloth">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode75questions.BestTimeToBuyAndSellStock" />
       <module name="AlgorithmPratice" />
@@ -45,6 +54,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingSheeps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingSheeps" />
+      <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,40 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TotalAmountOfPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalAmountOfPoints" />
+    <configuration name="WolfInSheepsCloth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WolfInSheepsCloth" />
       <module name="AlgorithmPratice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75questions.TwoSums" />
-      <module name="AlgorithmPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode75questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountingSheeps" />
+      <item itemvalue="Application.WolfInSheepsCloth" />
       <item itemvalue="Application.BestTimeToBuyAndSellStock" />
       <item itemvalue="Application.FindNearestSquareNumber" />
       <item itemvalue="Application.OppositeNumber" />
-      <item itemvalue="Application.TwoSums" />
-      <item itemvalue="Application.TotalAmountOfPoints" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WolfInSheepsCloth" />
+        <item itemvalue="Application.CountingSheeps" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.OppositeNumber" />
         <item itemvalue="Application.FindNearestSquareNumber" />
-        <item itemvalue="Application.TwoSums" />
-        <item itemvalue="Application.TotalAmountOfPoints" />
       </list>
     </recent_temporary>
   </component>
@@ -108,8 +111,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654118046296</updated>
+      <workItem from="1657358496141" duration="1492000" />
+      <workItem from="1657378041726" duration="1775000" />
+      <workItem from="1657385712455" duration="5632000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
