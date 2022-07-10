@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +40,11 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WolfInSheepsCloth">
+  <component name="RunManager" selected="Application.CorrectTheMistake">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode75questions.BestTimeToBuyAndSellStock" />
       <module name="AlgorithmPratice" />
@@ -58,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSheeps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountingSheeps" />
+    <configuration name="CorrectTheMistake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorrectTheMistake" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNearestSquareNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindNearestSquareNumber" />
+    <configuration name="CountingSheeps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingSheeps" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,19 +87,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CorrectTheMistake" />
       <item itemvalue="Application.CountingSheeps" />
       <item itemvalue="Application.WolfInSheepsCloth" />
       <item itemvalue="Application.BestTimeToBuyAndSellStock" />
-      <item itemvalue="Application.FindNearestSquareNumber" />
       <item itemvalue="Application.OppositeNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CorrectTheMistake" />
         <item itemvalue="Application.WolfInSheepsCloth" />
         <item itemvalue="Application.CountingSheeps" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.OppositeNumber" />
-        <item itemvalue="Application.FindNearestSquareNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +113,8 @@
       <updated>1654118046296</updated>
       <workItem from="1657358496141" duration="1492000" />
       <workItem from="1657378041726" duration="1775000" />
-      <workItem from="1657385712455" duration="5632000" />
+      <workItem from="1657385712455" duration="6290000" />
+      <workItem from="1657437279274" duration="4187000" />
     </task>
     <servers />
   </component>
