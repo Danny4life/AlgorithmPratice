@@ -44,7 +44,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumArrays">
+  <component name="RunManager" selected="Application.SimpleValidation">
     <configuration name="CorrectTheMistake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CorrectTheMistake" />
       <module name="AlgorithmPratice" />
@@ -52,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSheeps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountingSheeps" />
+    <configuration name="EnoughSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnoughSpace" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnoughSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnoughSpace" />
+    <configuration name="SimpleValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleValidation" />
       <module name="AlgorithmPratice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,19 +81,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SimpleValidation" />
       <item itemvalue="Application.SumArrays" />
       <item itemvalue="Application.CorrectTheMistake" />
       <item itemvalue="Application.EnoughSpace" />
-      <item itemvalue="Application.CountingSheeps" />
       <item itemvalue="Application.WolfInSheepsCloth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleValidation" />
         <item itemvalue="Application.SumArrays" />
         <item itemvalue="Application.EnoughSpace" />
         <item itemvalue="Application.CorrectTheMistake" />
         <item itemvalue="Application.WolfInSheepsCloth" />
-        <item itemvalue="Application.CountingSheeps" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +109,7 @@
       <workItem from="1657378041726" duration="1775000" />
       <workItem from="1657385712455" duration="6290000" />
       <workItem from="1657437279274" duration="8091000" />
-      <workItem from="1657538961048" duration="1504000" />
+      <workItem from="1657538961048" duration="4996000" />
     </task>
     <servers />
   </component>
