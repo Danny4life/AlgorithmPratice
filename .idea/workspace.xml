@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3de4f66-71bc-4219-87a4-54f57be359de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleValidation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,14 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SimpleValidation">
+  <component name="RunManager" selected="Application.ConvertBinToDecimal">
+    <configuration name="ConvertBinToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertBinToDecimal" />
+      <module name="AlgorithmPratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CorrectTheMistake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CorrectTheMistake" />
       <module name="AlgorithmPratice" />
@@ -73,27 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WolfInSheepsCloth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WolfInSheepsCloth" />
-      <module name="AlgorithmPratice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ConvertBinToDecimal" />
       <item itemvalue="Application.SimpleValidation" />
       <item itemvalue="Application.SumArrays" />
       <item itemvalue="Application.CorrectTheMistake" />
       <item itemvalue="Application.EnoughSpace" />
-      <item itemvalue="Application.WolfInSheepsCloth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertBinToDecimal" />
         <item itemvalue="Application.SimpleValidation" />
         <item itemvalue="Application.SumArrays" />
         <item itemvalue="Application.EnoughSpace" />
         <item itemvalue="Application.CorrectTheMistake" />
-        <item itemvalue="Application.WolfInSheepsCloth" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +110,7 @@
       <workItem from="1657378041726" duration="1775000" />
       <workItem from="1657385712455" duration="6290000" />
       <workItem from="1657437279274" duration="8091000" />
-      <workItem from="1657538961048" duration="4996000" />
+      <workItem from="1657538961048" duration="6935000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,7 @@
 
 public class SimpleValidation {
     public static void main(String[] args) {
-        System.out.println(validateUsr("reg"));
+        System.out.println(validateUsr("regh"));
     }
 
     public static boolean validateUsr(String s) {
